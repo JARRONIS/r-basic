@@ -62,3 +62,6 @@ desv.tip = sd(notas)
 ```
 
 Este año he hecho $n=$ `r n` examenes, con una media $\overline{x}=$ `r round(media,2)` y una desviación típica de $s=$ `r round(desv.tip,2)`.
+
+
+
