@@ -18,8 +18,10 @@ Dad los valores propios de la matriz $$B = \begin{pmatrix} 2 & 4 & -6\\ 0 & 0 & 
 
 ## Ejercicio 3
 
-Dad, redondeando a 3 cifras decimales, los vectores propios de la matriz $$C = \begin{pmatrix} -48 & 35 & -12\\ -134 & 95 & -32\\ -194 & 133 & -44\end{pmatrix}$$
+Dad, redondeand
+o a 3 cifras decimales, los vectores propios de la matriz $$C = \begin{pmatrix} -48 & 35 & -12\\ -134 & 95 & -32\\ -194 & 133 & -44\end{pmatrix}$$
 
 ## Ejercicio 4
 
 Dad el rango de la matriz $$D = \begin{pmatrix} -2 & -8 & -2 & 3\\ -3 & -6 & -1 & 2\\ -9 & -22 & -3 & 7\\ -18 & -44 & -8 & 15\end{pmatrix}$$
+
